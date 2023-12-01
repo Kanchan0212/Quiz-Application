@@ -1,2 +1,2 @@
 # Quiz-Application
-# This is Java Application Using OOPs concepts 
+# This is Java Application using Swing & OOPs concepts 
