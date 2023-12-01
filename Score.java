@@ -19,7 +19,7 @@ public class Score extends JFrame implements ActionListener {
 
         JLabel heading = new JLabel("Thank You " + name + " for playing Simple Minds.");
         heading.setBounds(45, 30,700,30);
-        heading.setFont(new Font("Tahoma", Font.PLAIN, 26));
+        heading.setFont(new Font("Italic", Font.PLAIN, 26));
         add(heading);
 
         //int score;

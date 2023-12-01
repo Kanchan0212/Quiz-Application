@@ -24,15 +24,16 @@ public class Rules extends JFrame implements ActionListener {
         rules.setFont(new Font("Mongolian Baiti", Font.PLAIN, 16));
         rules.setText(
                 "<html>"+
-                        "1. You are trained to be a programmer and not a story teller, answer point to point" + "<br><br>" +
-                        "2. Do not unnecessarily smile at the person sitting next to you, they may also not know the answer" + "<br><br>" +
-                        "3. You may have lot of options in life but here all the questions are compulsory" + "<br><br>" +
-                        "4. Crying is allowed but please do so quietly." + "<br><br>" +
-                        "5. Only a fool asks and a wise answers (Be wise, not otherwise)" + "<br><br>" +
-                        "6. Do not get nervous if your friend is answering more questions, may be he/she is doing Jai Mata Di" + "<br><br>" +
-                        "7. Brace yourself, this paper is not for the faint hearted" + "<br><br>" +
-                        "8. May you know more than what John Snow knows, Good Luck" + "<br><br>" +
-                        "<html>"
+                        "1. You are trained to be a programmer, answer point to point" + "<br><br>" +
+                        "2. The contest will be having only one round. " + "<br><br>" +
+                        "3. Do not unnecessarily smile at the person sitting next to you, they may also not know the answer" + "<br><br>" +
+                        "4. You may have lot of options in life but here all the questions are compulsory" + "<br><br>" +
+                        "5. Total Number of questions are 10 " + "<br><br>" +
+                        "6. They will be given 15 seconds for each question. " + "<br><br>" +
+                        "7. Do not get nervous if your friend is answering more questions, may be he/she is doing Jai Mata Di" + "<br><br>" +
+                        "8.Problem statements are available only in one language: English" + "<br><br>" +
+                        "9.Brace yourself, this paper is not for the faint hearted" + "<br><br>" +
+                "<html>"
         );
         add(rules);
 

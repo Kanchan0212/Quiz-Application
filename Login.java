@@ -17,13 +17,13 @@ public class Login extends JFrame implements ActionListener{  //to see frame use
 
         JLabel heading = new JLabel("Simple Minds");
         heading.setBounds(730,60,300,45);
-        heading.setFont(new Font("Mongolian Baiti", Font.BOLD, 25));
+        heading.setFont(new Font("Viner Hand ITC", Font.BOLD, 30));
         heading.setForeground(Color.BLUE);
         add(heading);
 
         JLabel name = new JLabel("Enter Your Name");
         name.setBounds(710,150,200,20);
-        name.setFont(new Font("Mongolian Baiti", Font.BOLD, 25));
+        name.setFont(new Font("Mongolian Baiti ", Font.BOLD, 25));
         name.setForeground(Color.BLACK);
         add(name);
 
